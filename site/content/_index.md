@@ -3,7 +3,7 @@ title: "Infohielo"
 subtitle: Lugar de encuentro para compartir información sobre escalada en hielo, condiciones, opiniones, noticias, etc.
 image: /img/home-team.jpg
 blurb:
-    heading: Por qué infohielo.es?
+    heading: Infohielo.es?
     text: ""
 intro:
     heading: ""
