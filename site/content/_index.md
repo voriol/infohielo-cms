@@ -9,7 +9,7 @@ intro:
     heading: ""
     text: ""
 condiciones:
-    - image: img/home-condiciones.svg
+    - image: img/home-condiciones.jpg
       text: "Información sobre escalada en hielo, condiciones, opiniones"
 webcams:
     heading: Webcams
