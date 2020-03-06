@@ -1,7 +1,7 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+baseurl = "https://infohielo.es"
+languageCode = "es-es"
+languageLang = "es"
+title = "Infohielo"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
