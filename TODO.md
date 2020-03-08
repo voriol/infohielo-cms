@@ -1,3 +1,8 @@
+# docu
+
+https://www.netlifycms.org/docs/add-to-your-site/
+https://www.netlifycms.org/docs/add-to-your-site/#configuration
+
 # renaming
 
 products    -> condiciones
